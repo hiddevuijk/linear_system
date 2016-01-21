@@ -1,0 +1,8 @@
+N =3
+meanS =0
+varS =1.
+meanA =0
+varA =1.
+sf =100
+tsave=10000
+seed =123456789
